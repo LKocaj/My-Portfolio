@@ -8,14 +8,12 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hello, I am <span className="purple">Lawrence Kocaj</span>
+            Hello<span className="purple">Lawrence Kocaj</span>
             from <span className="purple"></span>
-            <br />
-            Front-end Developer | React.js, HTML, CSS, Javascript and Wix
-            Experienced | Customer Relationship Management | IT Troubleshooter
+            <br />Front-end Developer | React.js, HTML, CSS, Javascript and Wix Experienced | Customer Relationship Management | IT Troubleshooter
             <br />
             <br />
-            Apart from coding, some other interests.
+            Apart from coding, here are some of my other interests.
           </p>
           <ul>
             <li className="about-activity">

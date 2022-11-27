@@ -14,10 +14,10 @@ function Footer() {
     <Container fluid className="footer">
       <Row>
         <Col md="4" className="footer-copywright">
-          <h3>Designed by Lawrence Kocaj</h3>
+          <h3>Created by Lawrence Kocaj</h3>
         </Col>
         <Col md="4" className="footer-copywright">
-          <h3>Copyright © {year} Lawrence Kocaj</h3>
+          <h3>Copyright © {year} LK</h3>
         </Col>
         <Col md="4" className="footer-body">
           <ul className="footer-icons">
@@ -33,7 +33,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://twitter.com/lawrencekocaj"
+                href="https://twitter.com/"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -53,7 +53,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.instagram.com/lawrencekocaj"
+                href="https://www.instagram.com/"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
