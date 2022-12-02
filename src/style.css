@@ -10,8 +10,8 @@ html {
     rgba(17, 16, 16, 0.678),
     rgba(12, 10, 22, 0.863)
   );
-/* #c770f0 is the old text color used here */
-  --imp-text-color: #5689e6;
+/* #c770f0 is the old text color used here #5689e6*/
+  --imp-text-color: #0088CA;
 }
 
 .purple {
