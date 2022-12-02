@@ -5,7 +5,7 @@ html {
     rgba(242, 255, 0, 0.904)
   );
 
-  --image-gradient: linear-gradient(
+  --image-gradient: linear-gradient(               /* Top half of home page colors */
     to bottom left,
     rgb(255, 0, 0),
     rgba(255, 3, 3, 0.863)
@@ -22,9 +22,8 @@ button:focus {
   box-shadow: none !important;
 }
 
-/* --------- */
-/*  Preloader */
-/* --------- */
+/* ----- Preloader ----- */
+
 #preloader {
   position: fixed;
   top: 0;
@@ -47,9 +46,7 @@ button:focus {
   height: 100vh;
 }
 
-/* --------- */
-/*Scrollbar   */
-/* --------- */
+/* ----- Scrollbar -----   */
 
 ::-webkit-scrollbar {
   width: 7px;
@@ -72,9 +69,8 @@ button:focus {
   border-radius: 12px;
 }
 
-/* --------- */
-/* Navbar Section  */
-/* --------- */
+/* ----- Navbar Section ----- */
+
 .sticky {
   background-color: #0d00ffa9 !important;
   transition: all 0.3s ease-out 0s !important;
@@ -205,9 +201,9 @@ button:focus {
   width: 100%;
 }
 
-/* --------- */
-/* Home section */
-/* --------- */
+
+/* ----- Home section ----- */
+
 .wave {
   animation-name: wave-animation; /* Refers to the name of your @keyframes element below */
   animation-duration: 2.1s; /* Change to speed up or slow down */
@@ -398,9 +394,8 @@ button:focus {
   color: #ff00bb !important;
 }
 
-/* --------- */
-/* Footer */
-/* --------- */
+/* ----- Footer ----- */
+
 .footer {
   background-color: rgb(255, 89, 0);
   bottom: 0 !important;
@@ -441,9 +436,9 @@ button:focus {
 .blockquote-footer {
   color: #a588c0 !important;
 }
-/* --------- */
-/* Projects */
-/* --------- */
+
+/* ----- Projects ----- */
+
 .project-section {
   position: relative !important;
   padding-top: 150px !important;
@@ -538,9 +533,7 @@ button:focus {
   padding-top: 10px !important;
 }
 
-/* --------- */
-/* About */
-/* --------- */
+/* ----- About ----- */
 
 .about-section {
   position: relative !important;
@@ -598,9 +591,8 @@ button:focus {
     padding-top: 0 !important;
   }
 }
-/* --------- */
-/* Resume */
-/* --------- */
+
+/* ----- Resume ----- */
 
 .resume-section {
   position: relative !important;
