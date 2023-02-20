@@ -10,7 +10,9 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hello<span className="blue">Lawrence Kocaj</span>
             from <span className="blue"></span>
-            <br />Front-end Developer | React.js, HTML, CSS, Javascript and Wix Experienced | Customer Relationship Management | IT Troubleshooter
+            <br />
+            Front-end Developer | React.js, HTML, CSS, Javascript and Wix
+            Experienced | Customer Relationship Management | IT Troubleshooter
             <br />
             <br />
             Apart from coding, here are some of my other interests.

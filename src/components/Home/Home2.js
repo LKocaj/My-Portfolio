@@ -19,7 +19,8 @@ function Home2() {
               LET ME <span className="blue"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-             A driven and tech-savvy web developer with a full stack certificate from UConn.
+              A driven and tech-savvy web developer with a full stack
+              certificate from UConn.
               <br />
               <br />I have honed my skills in
               <i>
@@ -29,8 +30,8 @@ function Home2() {
               <br />
               My field of Interests are building new &nbsp;
               <i>
-                <b className="blue">Web Technologies and Products </b> and
-                also in areas related to{" "}
+                <b className="blue">Web Technologies and Products </b> and also
+                in areas related to{" "}
                 <b className="blue">
                   Deep Learning and Natural Launguage Processing.
                 </b>
