@@ -12,7 +12,7 @@
   <h3 align="center">Lawrence's Web Developer portfolio!</h3>
 
   <p align="center">
-    My current, up to date <i>Looking-for-work</i> portfolio
+    My current, up to date <i>Looking-for-work</i> portfolio.
     <br />
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
@@ -105,39 +105,12 @@ Download the code from github or use <b>git clone</b> in the terminal
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
 <!-- CONTACT -->
 ## Contact
 
-Lawrence Kocaj - [@your_twitter](https://twitter.com/lawrence_kocaj) - lawrence@lawrencekocaj.com
+<!-- Lawrence Kocaj - [@your_twitter](https://twitter.com/lawrence_kocaj) - lawrence@lawrencekocaj.com -->
 
 Project Link: [https://github.com/LKocaj/portfolio](https://github.com/LKocaj/portfolio)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
-
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
