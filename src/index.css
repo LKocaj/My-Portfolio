@@ -4,5 +4,5 @@ body {
   font-family: "Raleway", serif !important;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-image: linear-gradient(to left, rgb(113, 222, 224), rgb(197, 100, 177)); /* These color(s) determine the bottom half of the home page (sneaky sneaky) */
+  background-image: linear-gradient(to left, #020D31, #020D31); /* These color(s) determine the bottom half of the home page (sneaky sneaky) --- */
 }
